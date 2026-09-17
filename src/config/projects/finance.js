@@ -15,8 +15,8 @@ export default {
                 { label: "订单明细", path: "/order/sublist" },
             ],
         },
-        { module: "收支管理", routes: [{ label: "收支明细", path: "/shouZhi/list" }] },
-        { module: "收银宝", routes: [{ label: "收银宝交易记录", path: "/SYB/transaction" }] },
+        { module: "收支管理", routes: [{ label: "收支管理", path: "/shouZhi/list" }] },
+        { module: "收银宝", routes: [{ label: "收银宝", path: "/SYB/transaction" }] },
         {
             module: "商城营收（老提现）",
             routes: [
