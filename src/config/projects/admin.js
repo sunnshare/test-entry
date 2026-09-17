@@ -16,6 +16,6 @@ export default {
         { module: "分佣推广", routes: [{ label: "分销设置", path: "/distribution/setup" }] },
         { module: "商城数据", routes: [{ label: "商城数据", path: "/data/index" }] },
         { module: "商城设置", routes: [{ label: "海报模板", path: "/other/index" }] },
-        { module: "小程序预览", routes: [{ label: "小程序", path: "/preview/minp" }] },
+        { module: "小程序预览", routes: [{ label: "小程序（已交接）", path: "/preview/minp" }] },
     ],
 };
